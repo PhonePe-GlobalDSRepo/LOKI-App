@@ -1269,6 +1269,20 @@
         "value": "8%",
         "type": "letterSpacing"
       }
+    },
+    "TextDecoration": {
+      "None": {
+        "value": "None",
+        "type": "textDecoration"
+      },
+      "Underline": {
+        "value": "Underline",
+        "type": "textDecoration"
+      },
+      "Strikethrough": {
+        "value": "LineThrough",
+        "type": "textDecoration"
+      }
     }
   }
 }

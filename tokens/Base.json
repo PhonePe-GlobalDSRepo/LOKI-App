@@ -895,72 +895,104 @@
         }
       }
     },
-    "TextCase": {
-      "None": {
-        "value": "None",
-        "type": "textCase"
-      },
-      "Uppercase": {
-        "value": "uppercase",
-        "type": "textCase"
-      }
-    },
     "BorderRadius": {
-      "0%": {
-        "value": "0%",
-        "type": "borderRadius"
+      "0": {
+        "value": "0",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "4%": {
-        "value": "4%",
-        "type": "borderRadius"
+      "4": {
+        "value": "4",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "8%": {
-        "value": "8%",
-        "type": "borderRadius"
+      "8": {
+        "value": "8",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "12%": {
-        "value": "12%",
-        "type": "borderRadius"
+      "12": {
+        "value": "12",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "16%": {
-        "value": "16%",
-        "type": "borderRadius"
+      "16": {
+        "value": "16",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "20%": {
-        "value": "20%",
-        "type": "borderRadius"
+      "20": {
+        "value": "20",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "24%": {
-        "value": "24%",
-        "type": "borderRadius"
+      "24": {
+        "value": "24",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "28%": {
-        "value": "28%",
-        "type": "borderRadius"
+      "28": {
+        "value": "28",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "32%": {
-        "value": "32%",
-        "type": "borderRadius"
+      "32": {
+        "value": "32",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "36%": {
-        "value": "36%",
-        "type": "borderRadius"
+      "36": {
+        "value": "36",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "40%": {
-        "value": "40%",
-        "type": "borderRadius"
+      "40": {
+        "value": "40",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "44%": {
-        "value": "44%",
-        "type": "borderRadius"
+      "44": {
+        "value": "44",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "48%": {
-        "value": "48%",
-        "type": "borderRadius"
+      "48": {
+        "value": "48",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       },
-      "100%": {
-        "value": "100%",
-        "type": "borderRadius"
+      "10000": {
+        "value": "10000",
+        "type": "borderRadius",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       }
     },
     "BorderWidth": {

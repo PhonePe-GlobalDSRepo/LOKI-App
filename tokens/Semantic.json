@@ -1,1 +1,10 @@
-{}
+{
+  "semantic": {
+    "Size": {
+      "0": {
+        "value": "{base.Size.0}",
+        "type": "sizing"
+      }
+    }
+  }
+}

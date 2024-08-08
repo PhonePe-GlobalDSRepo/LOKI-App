@@ -1151,6 +1151,22 @@
           "type": "boxShadow"
         }
       }
+    },
+    "FontFamily": {
+      "Roboto": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "FontWeight": {
+      "Regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     }
   }
 }

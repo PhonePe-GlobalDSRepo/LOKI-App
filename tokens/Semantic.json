@@ -316,7 +316,7 @@
     "Color": {
       "Brand": {
         "Primary": {
-          "value": "{base.Color.Purple.500}",
+          "value": "{base.Color.DeepGreen.500}",
           "type": "color"
         },
         "Secondary": {

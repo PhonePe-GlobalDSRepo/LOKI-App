@@ -1214,6 +1214,14 @@
       "Bold": {
         "value": "Bold",
         "type": "fontWeights"
+      },
+      "Medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "Semibold": {
+        "value": "Semibold",
+        "type": "fontWeights"
       }
     },
     "LineHeight": {

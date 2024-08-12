@@ -320,7 +320,7 @@
           "type": "color"
         },
         "Secondary": {
-          "value": "{base.Color.LightPurple.500}",
+          "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         }
       },

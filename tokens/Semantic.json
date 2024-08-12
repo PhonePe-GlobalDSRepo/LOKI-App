@@ -290,6 +290,28 @@
         "value": "100%",
         "type": "opacity"
       }
+    },
+    "LineHeight": {
+      "100%": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "125%": {
+        "value": "125%",
+        "type": "lineHeights"
+      },
+      "130%": {
+        "value": "130%",
+        "type": "lineHeights"
+      },
+      "135%": {
+        "value": "135%",
+        "type": "lineHeights"
+      },
+      "140%": {
+        "value": "140%",
+        "type": "lineHeights"
+      }
     }
   }
 }

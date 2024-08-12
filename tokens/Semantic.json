@@ -107,6 +107,28 @@
         "value": "{base.Spacing.56}",
         "type": "spacing"
       }
+    },
+    "BorderRadius": {
+      "0": {
+        "value": "{base.BorderRadius.0}",
+        "type": "borderRadius"
+      },
+      "4": {
+        "value": "{base.BorderRadius.4}",
+        "type": "borderRadius"
+      },
+      "8": {
+        "value": "{base.BorderRadius.8}",
+        "type": "borderRadius"
+      },
+      "12": {
+        "value": "{base.BorderRadius.12}",
+        "type": "borderRadius"
+      },
+      "100%": {
+        "value": "{base.BorderRadius.10000}",
+        "type": "borderRadius"
+      }
     }
   }
 }

@@ -143,6 +143,22 @@
         "value": "{base.BorderWidth.4}",
         "type": "borderWidth"
       }
+    },
+    "FontFamily": {
+      "Default": {
+        "value": "{base.FontFamily.Roboto}",
+        "type": "fontFamilies"
+      }
+    },
+    "FontWeight": {
+      "Regular": {
+        "value": "{base.FontWeight.Regular}",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "{base.FontWeight.Bold}",
+        "type": "fontWeights"
+      }
     }
   }
 }

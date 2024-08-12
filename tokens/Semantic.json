@@ -129,6 +129,20 @@
         "value": "{base.BorderRadius.10000}",
         "type": "borderRadius"
       }
+    },
+    "BorderWidth": {
+      "Default": {
+        "value": "{base.BorderWidth.1}",
+        "type": "borderWidth"
+      },
+      "Medium": {
+        "value": "{base.BorderWidth.2}",
+        "type": "borderWidth"
+      },
+      "Heavy": {
+        "value": "{base.BorderWidth.4}",
+        "type": "borderWidth"
+      }
     }
   }
 }

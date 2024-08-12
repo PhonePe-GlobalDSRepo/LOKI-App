@@ -893,6 +893,48 @@
           "value": "#f57f17",
           "type": "color"
         }
+      },
+      "Brand Blue": {
+        "50": {
+          "value": "#E4F0FB",
+          "type": "color"
+        },
+        "100": {
+          "value": "#CCE3F7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#99C7EF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#66ABE8",
+          "type": "color"
+        },
+        "400": {
+          "value": "#338FE0",
+          "type": "color"
+        },
+        "500": {
+          "value": "#0073D8",
+          "type": "color"
+        },
+        "600": {
+          "value": "#005CAD",
+          "type": "color"
+        },
+        "700": {
+          "value": "#004582",
+          "type": "color"
+        },
+        "800": {
+          "value": "#052645",
+          "type": "color"
+        },
+        "900": {
+          "value": "#00172B",
+          "type": "color"
+        }
       }
     },
     "BorderRadius": {

@@ -935,6 +935,48 @@
           "value": "#00172B",
           "type": "color"
         }
+      },
+      "Brand Green": {
+        "50": {
+          "value": "#EBFAEC",
+          "type": "color"
+        },
+        "100": {
+          "value": "#CCE5CD",
+          "type": "color"
+        },
+        "200": {
+          "value": "#99CB9C",
+          "type": "color"
+        },
+        "300": {
+          "value": "#67B06A",
+          "type": "color"
+        },
+        "400": {
+          "value": "#349639",
+          "type": "color"
+        },
+        "500": {
+          "value": "#017C07",
+          "type": "color"
+        },
+        "600": {
+          "value": "#016306",
+          "type": "color"
+        },
+        "700": {
+          "value": "#014A04",
+          "type": "color"
+        },
+        "800": {
+          "value": "#003203",
+          "type": "color"
+        },
+        "900": {
+          "value": "#001901",
+          "type": "color"
+        }
       }
     },
     "BorderRadius": {

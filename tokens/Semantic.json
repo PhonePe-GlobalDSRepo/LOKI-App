@@ -556,7 +556,7 @@
           "type": "color"
         }
       },
-      "Disabled": {
+      "Inactive": {
         "Background": {
           "value": "{base.Color.Grey.200}",
           "type": "color"
@@ -602,28 +602,16 @@
         }
       },
       "Icon": {
-        "BrandPrimary": {
-          "value": "{semantic.Color.Brand.Primary}",
-          "type": "color"
-        },
         "BrandSecondary": {
-          "value": "{base.Color.LightPurple.500}",
+          "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         },
         "Bold": {
           "value": "{base.Color.Grey.800}",
           "type": "color"
         },
-        "Rich": {
-          "value": "{base.Color.Grey.700}",
-          "type": "color"
-        },
-        "Emphasis": {
+        "Disabled": {
           "value": "{base.Color.Grey.500}",
-          "type": "color"
-        },
-        "Soft": {
-          "value": "{base.Color.Grey.100}",
           "type": "color"
         },
         "Inverse": {

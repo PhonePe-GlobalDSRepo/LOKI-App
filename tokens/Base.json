@@ -722,101 +722,59 @@
     "BorderRadius": {
       "0": {
         "value": "0",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "4": {
         "value": "4",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "8": {
         "value": "8",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "12": {
         "value": "12",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "16": {
         "value": "16",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "20": {
         "value": "20",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "24": {
         "value": "24",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "28": {
         "value": "28",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "32": {
         "value": "32",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "36": {
         "value": "36",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "40": {
         "value": "40",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "44": {
         "value": "44",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "48": {
         "value": "48",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       },
       "10000": {
         "value": "10000",
-        "type": "borderRadius",
-        "$extensions": {
-          "studio.tokens": {}
-        }
+        "type": "borderRadius"
       }
     },
     "BorderWidth": {

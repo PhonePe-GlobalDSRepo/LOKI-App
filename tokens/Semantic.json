@@ -476,7 +476,7 @@
       },
       "Info": {
         "BackgroundBold": {
-          "value": "{base.Color.Blue.700}",
+          "value": "{base.Color.Blue.800}",
           "type": "color"
         },
         "BackgroundSubtle": {
@@ -484,7 +484,7 @@
           "type": "color"
         },
         "TextBold": {
-          "value": "{base.Color.Blue.700}",
+          "value": "{base.Color.Blue.800}",
           "type": "color"
         },
         "TextSubtle": {
@@ -492,7 +492,7 @@
           "type": "color"
         },
         "BorderBold": {
-          "value": "{base.Color.Blue.700}",
+          "value": "{base.Color.Blue.800}",
           "type": "color"
         },
         "BorderSubtle": {
@@ -500,7 +500,7 @@
           "type": "color"
         },
         "IconBold": {
-          "value": "{base.Color.Blue.700}",
+          "value": "{base.Color.Blue.800}",
           "type": "color"
         },
         "IconSubtle": {

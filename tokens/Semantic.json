@@ -332,10 +332,6 @@
         "PrimaryLayer": {
           "value": "{base.Color.Neutral.White}",
           "type": "color"
-        },
-        "ElevatedLayer": {
-          "value": "{base.Color.Neutral.White}",
-          "type": "color"
         }
       },
       "Background": {
@@ -510,23 +506,23 @@
       },
       "Selection": {
         "BackgroundBold": {
-          "value": "{base.Color.Green.800}",
+          "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         },
         "BackgroundSubtle": {
-          "value": "{base.Color.Green.50}",
+          "value": "{base.Color.DeepBlue.50}",
           "type": "color"
         },
         "Border": {
-          "value": "{base.Color.Green.800}",
+          "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         },
         "Icon": {
-          "value": "{base.Color.Green.800}",
+          "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         },
         "Text": {
-          "value": "{base.Color.Green.800}",
+          "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         }
       },

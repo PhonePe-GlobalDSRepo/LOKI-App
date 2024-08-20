@@ -527,30 +527,33 @@
         }
       },
       "CTA": {
-        "Background": {
-          "value": "{semantic.Color.Background.Brand}",
-          "type": "color",
-          "description": "Primary CTA"
+        "BackgroundBold": {
+          "value": "{base.Color.DeepBlue.500}",
+          "type": "color"
         },
         "BackgroundSubtle": {
-          "value": "{base.Color.Purple.100}",
-          "type": "color",
-          "description": "Tonal CTA"
+          "value": "{base.Color.DeepBlue.50}",
+          "type": "color"
         },
         "Border": {
-          "value": "{semantic.Color.Border.Brand}",
-          "type": "color",
-          "description": "Used for Secondary CTA"
+          "value": "{base.Color.DeepBlue.500}",
+          "type": "color"
         },
-        "Text": {
-          "value": "{semantic.Color.Text.Brand}",
-          "type": "color",
-          "description": "Used for secodary, tertiary and inverse CTA"
+        "TextBold": {
+          "value": "{base.Color.DeepBlue.500}",
+          "type": "color"
         },
-        "Icon": {
-          "value": "{semantic.Color.Icon.BrandPrimary}",
-          "type": "color",
-          "description": "Used for tertiary CTA"
+        "TextInverse": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        },
+        "IconBold": {
+          "value": "{base.Color.DeepBlue.500}",
+          "type": "color"
+        },
+        "IconSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
         }
       },
       "Disabled": {

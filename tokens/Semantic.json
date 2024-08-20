@@ -558,11 +558,11 @@
       },
       "Disabled": {
         "Background": {
-          "value": "{base.Color.Grey.300}",
+          "value": "{base.Color.Grey.200}",
           "type": "color"
         },
         "Border": {
-          "value": "{base.Color.Grey.500}",
+          "value": "{base.Color.Grey.400}",
           "type": "color"
         },
         "Text": {

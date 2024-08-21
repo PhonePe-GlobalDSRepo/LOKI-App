@@ -1,0 +1,42 @@
+{
+  "component": {
+    "Color": {
+      "BottomNavigationBar": {
+        "Background": {
+          "value": "{semantic.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "BottomNavigationItem": {
+        "Default": {
+          "IconBackground": {
+            "value": "{semantic.Color.Icon.Disabled}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{semantic.Color.Icon.Inverse}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{semantic.Color.Text.Disabled}",
+            "type": "color"
+          }
+        },
+        "Active": {
+          "IconBackground": {
+            "value": "{semantic.Color.Selection.BackgroundBold}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{semantic.Color.Icon.Inverse}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{semantic.Color.Selection.Text}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

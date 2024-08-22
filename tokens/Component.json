@@ -61,45 +61,36 @@
       },
       "BottomNavigationBar": {
         "Background": {
-          "value": "{semantic.Color.Surface.ElevatedLayer}",
+          "value": "{semantic.Color.Surface.PrimaryLayer}",
           "type": "color"
         }
       },
       "BottomNavigationItem": {
         "Default": {
           "IconBackground": {
-            "value": "{semantic.Color.Neutral.White}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "alpha",
-                  "value": "0.01",
-                  "space": "srgb"
-                }
-              }
-            }
+            "value": "{semantic.Color.Icon.Disabled}",
+            "type": "color"
           },
           "Icon": {
-            "value": "{semantic.Color.Icon.Rich}",
+            "value": "{semantic.Color.Icon.Inverse}",
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Secondary}",
+            "value": "{semantic.Color.Text.Disabled}",
             "type": "color"
           }
         },
         "Active": {
           "IconBackground": {
-            "value": "{semantic.Color.Accent.Accent23}",
+            "value": "{semantic.Color.Selection.BackgroundBold}",
             "type": "color"
           },
           "Icon": {
-            "value": "{semantic.Color.Icon.BrandPrimary}",
+            "value": "{semantic.Color.Icon.Inverse}",
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Brand}",
+            "value": "{semantic.Color.Selection.Text}",
             "type": "color"
           }
         }

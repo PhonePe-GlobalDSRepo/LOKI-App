@@ -1277,6 +1277,16 @@
         "value": "LineThrough",
         "type": "textDecoration"
       }
+    },
+    "TextCase": {
+      "None": {
+        "value": "None",
+        "type": "textCase"
+      },
+      "Uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
     }
   }
 }

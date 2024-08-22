@@ -106,7 +106,7 @@
           "Primary": {
             "Active": {
               "Background": {
-                "value": "{semantic.Color.CTA.Background}",
+                "value": "{semantic.Color.Selection.BackgroundBold}",
                 "type": "color"
               },
               "Text": {

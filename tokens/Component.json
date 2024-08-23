@@ -206,7 +206,7 @@
       "Checkbox": {
         "Active": {
           "Icon": {
-            "value": "{semantic.Color.Success.IconBold}",
+            "value": "{semantic.Color.Selection.Icon}",
             "type": "color"
           }
         },
@@ -230,91 +230,33 @@
         }
       },
       "Chips": {
-        "SingleSelect": {
-          "Default": {
-            "Background": {
-              "value": "{semantic.Color.Surface.PrimaryLayer}",
-              "type": "color"
-            },
-            "Border": {
-              "value": "{semantic.Color.Border.Moderate}",
-              "type": "color"
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Bold}",
-              "type": "color"
-            },
-            "Text": {
-              "value": "{semantic.Color.Text.Primary}",
-              "type": "color"
-            }
+        "Default": {
+          "Background": {
+            "value": "{semantic.Color.Background.Inverse}",
+            "type": "color"
           },
-          "Active": {
-            "Background": {
-              "value": "{semantic.Color.Selection.BackgroundSubtle}",
-              "type": "color"
-            },
-            "Border": {
-              "value": "{semantic.Color.Selection.Border}",
-              "type": "color"
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Bold}",
-              "type": "color"
-            },
-            "Text": {
-              "value": "{semantic.Color.Text.Primary}",
-              "type": "color"
-            }
+          "Border": {
+            "value": "{semantic.Color.Inactive.Border}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{semantic.Color.Text.Medium}",
+            "type": "color"
           }
         },
-        "MultiSelect": {
-          "Default": {
-            "Background": {
-              "value": "{semantic.Color.Surface.PrimaryLayer}",
-              "type": "color"
-            },
-            "Border": {
-              "value": "{semantic.Color.Border.Moderate}",
-              "type": "color"
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Bold}",
-              "type": "color"
-            },
-            "Text": {
-              "value": "{semantic.Color.Text.Primary}",
-              "type": "color"
-            }
+        "Active": {
+          "Background": {
+            "value": "{semantic.Color.Selection.BackgroundSubtle}",
+            "type": "color"
           },
-          "Active": {
-            "Background": {
-              "value": "{semantic.Color.Selection.BackgroundSubtle}",
-              "type": "color"
-            },
-            "Border": {
-              "value": "{semantic.Color.Selection.Border}",
-              "type": "color"
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Bold}",
-              "type": "color"
-            },
-            "Text": {
-              "value": "{semantic.Color.Text.Primary}",
-              "type": "color"
-            }
+          "Border": {
+            "value": "{semantic.Color.Selection.Border}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{semantic.Color.Selection.Text}",
+            "type": "color"
           }
-        }
-      },
-      "FAB": {
-        "Background": {
-          "value": "{semantic.Color.CTA.Background}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{semantic.Color.Icon.Inverse}",
-          "type": "color"
         }
       },
       "Filter": {

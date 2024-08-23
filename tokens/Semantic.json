@@ -518,11 +518,11 @@
       },
       "Inactive": {
         "Background": {
-          "value": "{base.Color.Grey.200}",
+          "value": "{base.Color.Grey.300}",
           "type": "color"
         },
         "Border": {
-          "value": "{base.Color.Grey.400}",
+          "value": "{base.Color.Grey.500}",
           "type": "color"
         },
         "Text": {
@@ -537,10 +537,6 @@
       "Border": {
         "Brand": {
           "value": "{semantic.Color.Brand.Primary}",
-          "type": "color"
-        },
-        "Emphasis": {
-          "value": "{base.Color.Grey.500}",
           "type": "color"
         },
         "Moderate": {
@@ -570,10 +566,6 @@
           "value": "{base.Color.Grey.800}",
           "type": "color"
         },
-        "Disabled": {
-          "value": "{base.Color.Grey.500}",
-          "type": "color"
-        },
         "Inverse": {
           "value": "{semantic.Color.Neutral.White}",
           "type": "color"
@@ -586,10 +578,6 @@
         },
         "Medium": {
           "value": "{base.Color.Grey.800}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{base.Color.Grey.500}",
           "type": "color"
         },
         "Placeholder": {

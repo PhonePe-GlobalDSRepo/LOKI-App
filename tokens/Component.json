@@ -68,7 +68,7 @@
       "BottomNavigationItem": {
         "Default": {
           "IconBackground": {
-            "value": "{semantic.Color.Icon.Disabled}",
+            "value": "{semantic.Color.Background.Emphasis}",
             "type": "color"
           },
           "Icon": {
@@ -76,7 +76,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Disabled}",
+            "value": "{semantic.Color.Inactive.Text}",
             "type": "color"
           }
         },
@@ -106,21 +106,21 @@
           "Primary": {
             "Active": {
               "Background": {
-                "value": "{semantic.Color.Selection.BackgroundBold}",
+                "value": "{semantic.Color.CTA.BackgroundBold}",
                 "type": "color"
               },
               "Text": {
-                "value": "{semantic.Color.Text.Inverse}",
+                "value": "{semantic.Color.CTA.TextInverse}",
                 "type": "color"
               }
             },
             "Disabled": {
               "Background": {
-                "value": "{semantic.Color.Disabled.Background}",
+                "value": "{semantic.Color.Inactive.Background}",
                 "type": "color"
               },
               "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
+                "value": "{semantic.Color.Inactive.Text}",
                 "type": "color"
               }
             }
@@ -132,17 +132,17 @@
                 "type": "color"
               },
               "Text": {
-                "value": "{semantic.Color.CTA.Text}",
+                "value": "{semantic.Color.CTA.TextBold}",
                 "type": "color"
               }
             },
             "Disabled": {
               "Border": {
-                "value": "{semantic.Color.Disabled.Border}",
+                "value": "{semantic.Color.Inactive.Border}",
                 "type": "color"
               },
               "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
+                "value": "{semantic.Color.Inactive.Text}",
                 "type": "color"
               }
             }
@@ -150,21 +150,21 @@
           "Tertiary": {
             "Active": {
               "Icon": {
-                "value": "{semantic.Color.CTA.Icon}",
+                "value": "{semantic.Color.CTA.IconBold}",
                 "type": "color"
               },
               "Text": {
-                "value": "{semantic.Color.CTA.Text}",
+                "value": "{semantic.Color.CTA.TextBold}",
                 "type": "color"
               }
             },
             "Disabled": {
               "Icon": {
-                "value": "{semantic.Color.Disabled.Icon}",
+                "value": "{semantic.Color.Inactive.Icon}",
                 "type": "color"
               },
               "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
+                "value": "{semantic.Color.Inactive.Text}",
                 "type": "color"
               }
             },
@@ -178,173 +178,18 @@
                 "type": "color"
               }
             }
-          },
-          "Tonal": {
-            "Active": {
-              "Background": {
-                "value": "{semantic.Color.CTA.BackgroundSubtle}",
-                "type": "color"
-              },
-              "Icon": {
-                "value": "{semantic.Color.CTA.Icon}",
-                "type": "color"
-              },
-              "Text": {
-                "value": "{semantic.Color.CTA.Text}",
-                "type": "color"
-              }
-            },
-            "Disabled": {
-              "Background": {
-                "value": "{semantic.Color.Background.Pale}",
-                "type": "color"
-              },
-              "Icon": {
-                "value": "{semantic.Color.Disabled.Icon}",
-                "type": "color"
-              },
-              "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
-                "type": "color"
-              }
-            }
-          }
-        },
-        "Inverse": {
-          "Primary": {
-            "Active": {
-              "Background": {
-                "value": "{semantic.Color.Background.Inverse}",
-                "type": "color"
-              },
-              "Text": {
-                "value": "{semantic.Color.CTA.Text}",
-                "type": "color"
-              }
-            },
-            "Disabled": {
-              "Background": {
-                "value": "{semantic.Color.Disabled.Background}",
-                "type": "color"
-              },
-              "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
-                "type": "color"
-              }
-            }
-          },
-          "Secondary": {
-            "Active": {
-              "Text": {
-                "value": "{semantic.Color.Text.Inverse}",
-                "type": "color"
-              },
-              "Border": {
-                "value": "{semantic.Color.Border.Inverse}",
-                "type": "color"
-              }
-            },
-            "Disabled": {
-              "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
-                "type": "color"
-              },
-              "Border": {
-                "value": "{semantic.Color.Disabled.Border}",
-                "type": "color"
-              }
-            }
-          },
-          "Tertiary": {
-            "Active": {
-              "Text": {
-                "value": "{semantic.Color.Text.Inverse}",
-                "type": "color"
-              },
-              "Icon": {
-                "value": "{semantic.Color.Icon.Inverse}",
-                "type": "color"
-              }
-            },
-            "Disabled": {
-              "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
-                "type": "color"
-              },
-              "Icon": {
-                "value": "{semantic.Color.Disabled.Icon}",
-                "type": "color"
-              }
-            }
-          },
-          "Tonal": {
-            "Active": {
-              "Background": {
-                "value": "{semantic.Color.Neutral.White}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {
-                    "modify": {
-                      "type": "alpha",
-                      "value": "0.1",
-                      "space": "srgb"
-                    }
-                  }
-                }
-              },
-              "Icon": {
-                "value": "{semantic.Color.Icon.Inverse}",
-                "type": "color"
-              },
-              "Text": {
-                "value": "{semantic.Color.Text.Inverse}",
-                "type": "color"
-              }
-            },
-            "Disabled": {
-              "Background": {
-                "value": "{semantic.Color.Neutral.White}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {
-                    "modify": {
-                      "type": "alpha",
-                      "value": "0.1",
-                      "space": "srgb"
-                    }
-                  }
-                }
-              },
-              "Icon": {
-                "value": "{semantic.Color.Disabled.Icon}",
-                "type": "color"
-              },
-              "Text": {
-                "value": "{semantic.Color.Disabled.Text}",
-                "type": "color"
-              }
-            }
           }
         }
       },
       "CarouselIndicator": {
         "Default": {
           "BackgroundActive": {
-            "value": "{semantic.Color.Background.Deep}",
+            "value": "{semantic.Color.Selection.BackgroundBold}",
             "type": "color"
           },
           "BackgroundInactive": {
-            "value": "{semantic.Color.Background.Emphasis}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "alpha",
-                  "value": "0.5",
-                  "space": "srgb"
-                }
-              }
-            }
+            "value": "{semantic.Color.Background.Muted}",
+            "type": "color"
           }
         },
         "Inverse": {
@@ -353,51 +198,15 @@
             "type": "color"
           },
           "BackgroundInactive": {
-            "value": "{semantic.Color.Background.Emphasis}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "alpha",
-                  "value": "0.5",
-                  "space": "srgb"
-                }
-              }
-            }
+            "value": "{semantic.Color.Background.Muted}",
+            "type": "color"
           }
-        }
-      },
-      "ChatBubble": {
-        "ImageOverlay": {
-          "value": "linear-gradient(315deg, rgba( {semantic.Color.Neutral.Black} ,0.4) 0%, rgba( {semantic.Color.Neutral.Black} ,0.01) 60%)",
-          "type": "color",
-          "description": "GRADIENT-Image Overlay"
-        },
-        "SideIndicator": {
-          "value": "{semantic.Color.Accent.Accent6}",
-          "type": "color"
-        },
-        "BackgroundReceiver": {
-          "value": "{semantic.Color.Neutral.White}",
-          "type": "color"
-        },
-        "BackgroundReceiverReply": {
-          "value": "{semantic.Color.Background.Pale}",
-          "type": "color"
-        },
-        "BackgroundSender": {
-          "value": "{base.Color.LightPurple.300}",
-          "type": "color"
-        },
-        "BackgroundSenderReply": {
-          "value": "{base.Color.Purple.100}",
-          "type": "color"
         }
       },
       "Checkbox": {
         "Active": {
           "Icon": {
-            "value": "{semantic.Color.Selection.Icon}",
+            "value": "{semantic.Color.Success.IconBold}",
             "type": "color"
           }
         },
@@ -409,7 +218,7 @@
         },
         "Disabled": {
           "Icon": {
-            "value": "{semantic.Color.Disabled.Icon}",
+            "value": "{semantic.Color.Inactive.Icon}",
             "type": "color"
           }
         },

@@ -240,7 +240,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Medium}",
+            "value": "{semantic.Color.Text.Dark}",
             "type": "color"
           }
         },
@@ -254,7 +254,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Selection.Text}",
+            "value": "{semantic.Color.Text.Dark}",
             "type": "color"
           }
         }
@@ -262,11 +262,11 @@
       "Filter": {
         "Default": {
           "Background": {
-            "value": "{semantic.Color.Surface.PrimaryLayer}",
+            "value": "{semantic.Color.Background.Inverse}",
             "type": "color"
           },
           "Border": {
-            "value": "{semantic.Color.Border.Moderate}",
+            "value": "{semantic.Color.Border.Muted}",
             "type": "color"
           },
           "Icon": {
@@ -274,7 +274,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Primary}",
+            "value": "{semantic.Color.Text.Dark}",
             "type": "color"
           }
         },
@@ -292,25 +292,25 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Primary}",
+            "value": "{semantic.Color.Text.Dark}",
             "type": "color"
           }
         },
         "Disabled": {
           "Background": {
-            "value": "{semantic.Color.Disabled.Background}",
+            "value": "{semantic.Color.Inactive.Background}",
             "type": "color"
           },
           "Border": {
-            "value": "{semantic.Color.Disabled.Background}",
+            "value": "{semantic.Color.Inactive.Border}",
             "type": "color"
           },
           "Icon": {
-            "value": "{semantic.Color.Disabled.Icon}",
+            "value": "{semantic.Color.Inactive.Icon}",
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Disabled.Text}",
+            "value": "{semantic.Color.Inactive.Text}",
             "type": "color"
           }
         }

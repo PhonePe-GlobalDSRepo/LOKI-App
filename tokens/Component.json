@@ -564,26 +564,6 @@
           "type": "color"
         }
       },
-      "RadioButton": {
-        "Active": {
-          "Icon": {
-            "value": "{semantic.Color.Selection.Icon}",
-            "type": "color"
-          }
-        },
-        "Default": {
-          "Icon": {
-            "value": "{semantic.Color.Icon.Bold}",
-            "type": "color"
-          }
-        },
-        "Disabled": {
-          "Icon": {
-            "value": "{semantic.Color.Disabled.Icon}",
-            "type": "color"
-          }
-        }
-      },
       "Ribbon": {
         "Success": {
           "Background": {
@@ -1308,6 +1288,26 @@
         "Text": {
           "value": "{semantic.Color.Text.Inverse}",
           "type": "color"
+        }
+      },
+      "RadioButton": {
+        "Active": {
+          "Icon": {
+            "value": "{semantic.Color.Selection.Icon}",
+            "type": "color"
+          }
+        },
+        "Default": {
+          "Icon": {
+            "value": "{semantic.Color.Icon.Bold}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Icon": {
+            "value": "{semantic.Color.Inactive.Icon}",
+            "type": "color"
+          }
         }
       }
     },

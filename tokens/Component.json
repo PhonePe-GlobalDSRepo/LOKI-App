@@ -626,77 +626,21 @@
       },
       "Separator": {
         "Default": {
-          "Item": {
-            "Border": {
-              "value": "{semantic.Color.Neutral.Black}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0.10",
-                    "space": "srgb"
-                  }
-                }
-              }
-            }
-          },
-          "Section": {
-            "Border": {
-              "value": "{semantic.Color.Neutral.Black}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0.15",
-                    "space": "srgb"
-                  }
-                }
-              }
-            }
+          "Border": {
+            "value": "{semantic.Color.Border.Muted}",
+            "type": "color"
           }
         },
         "Inverse": {
-          "Item": {
-            "Border": {
-              "value": "{semantic.Color.Neutral.White}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0.10",
-                    "space": "srgb"
-                  }
-                }
-              }
-            }
-          },
-          "Section": {
-            "Border": {
-              "value": "{semantic.Color.Neutral.White}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0.15",
-                    "space": "srgb"
-                  }
-                }
-              }
-            },
-            "Solid": {
-              "value": "{semantic.Color.Neutral.White}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "1",
-                    "space": "srgb"
-                  }
+          "Border": {
+            "value": "{semantic.Color.Border.Inverse}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "srgb"
                 }
               }
             }

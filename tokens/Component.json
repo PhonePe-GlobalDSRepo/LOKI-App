@@ -709,7 +709,7 @@
           "type": "color"
         },
         "TextLink": {
-          "value": "{semantic.Color.Brand.Secondary}",
+          "value": "{semantic.Color.CTA.TextSubtle}",
           "type": "color"
         },
         "Text": {
@@ -1083,102 +1083,6 @@
           "TextSubTitle": {
             "value": "{semantic.Color.Text.Soft}",
             "type": "color"
-          }
-        },
-        "Transparent": {
-          "OnDarkBackground": {
-            "BackgroundNone": {
-              "value": "{semantic.Color.Neutral.Black}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0",
-                    "space": "srgb"
-                  }
-                }
-              }
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Inverse}",
-              "type": "color"
-            },
-            "IconBackground": {
-              "value": "{semantic.Color.Accent.Accent20}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0.6",
-                    "space": "srgb"
-                  }
-                }
-              }
-            },
-            "TextTitle": {
-              "value": "{semantic.Color.Text.Inverse}",
-              "type": "color"
-            },
-            "TextSubTitle": {
-              "value": "{semantic.Color.Text.Soft}",
-              "type": "color"
-            }
-          },
-          "OnLightImage": {
-            "BackgroundNone": {
-              "value": "{semantic.Color.Neutral.White}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0",
-                    "space": "srgb"
-                  }
-                }
-              }
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Bold}",
-              "type": "color"
-            },
-            "TextTitle": {
-              "value": "{semantic.Color.Text.Primary}",
-              "type": "color"
-            },
-            "TextSubTitle": {
-              "value": "{semantic.Color.Text.Secondary}",
-              "type": "color"
-            }
-          },
-          "OnLightBackground": {
-            "BackgroundNone": {
-              "value": "{semantic.Color.Neutral.White}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": "0",
-                    "space": "srgb"
-                  }
-                }
-              }
-            },
-            "Icon": {
-              "value": "{semantic.Color.Icon.Bold}",
-              "type": "color"
-            },
-            "TextTitle": {
-              "value": "{semantic.Color.Text.Primary}",
-              "type": "color"
-            },
-            "TextSubTitle": {
-              "value": "{semantic.Color.Text.Secondary}",
-              "type": "color"
-            }
           }
         }
       },

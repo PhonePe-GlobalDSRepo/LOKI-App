@@ -503,6 +503,10 @@
           "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         },
+        "TextSubtle": {
+          "value": "{base.Color.Blue.50}",
+          "type": "color"
+        },
         "TextInverse": {
           "value": "{base.Color.Neutral.White}",
           "type": "color"

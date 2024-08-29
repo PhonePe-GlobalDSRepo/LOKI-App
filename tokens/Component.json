@@ -564,38 +564,6 @@
           "type": "color"
         }
       },
-      "Ribbon": {
-        "Success": {
-          "Background": {
-            "value": "{semantic.Color.Success.BackgroundBold}",
-            "type": "color"
-          },
-          "Text": {
-            "value": "{semantic.Color.Success.TextSubtle}",
-            "type": "color"
-          }
-        },
-        "Warning": {
-          "Background": {
-            "value": "{semantic.Color.Warning.BackgroundBold}",
-            "type": "color"
-          },
-          "Text": {
-            "value": "{semantic.Color.Warning.TextSubtle}",
-            "type": "color"
-          }
-        },
-        "Danger": {
-          "Background": {
-            "value": "{semantic.Color.Danger.BackgroundBold}",
-            "type": "color"
-          },
-          "Text": {
-            "value": "{semantic.Color.Danger.TextSubtle}",
-            "type": "color"
-          }
-        }
-      },
       "Search": {
         "Default": {
           "Background": {

@@ -128,7 +128,7 @@
           "Secondary": {
             "Active": {
               "Border": {
-                "value": "{semantic.Color.CTA.Border}",
+                "value": "{semantic.Color.CTA.BorderBold}",
                 "type": "color"
               },
               "Text": {
@@ -240,7 +240,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Dark}",
+            "value": "{semantic.Color.Text.Primary}",
             "type": "color"
           }
         },
@@ -254,7 +254,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Dark}",
+            "value": "{semantic.Color.Text.Primary}",
             "type": "color"
           }
         }
@@ -274,7 +274,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Dark}",
+            "value": "{semantic.Color.Text.Primary}",
             "type": "color"
           }
         },
@@ -292,7 +292,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{semantic.Color.Text.Dark}",
+            "value": "{semantic.Color.Text.Primary}",
             "type": "color"
           }
         },

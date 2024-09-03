@@ -495,7 +495,7 @@
           "value": "{base.Color.DeepBlue.50}",
           "type": "color"
         },
-        "Border": {
+        "BorderBold": {
           "value": "{base.Color.DeepBlue.500}",
           "type": "color"
         },
@@ -576,15 +576,15 @@
         }
       },
       "Text": {
-        "Dark": {
+        "Primary": {
           "value": "{base.Color.Grey.900}",
           "type": "color"
         },
-        "Medium": {
+        "Secondary": {
           "value": "{base.Color.Grey.800}",
           "type": "color"
         },
-        "Placeholder": {
+        "Tertiary": {
           "value": "{base.Color.Grey.600}",
           "type": "color"
         },

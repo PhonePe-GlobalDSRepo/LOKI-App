@@ -126,7 +126,7 @@
         "type": "borderRadius"
       },
       "100%": {
-        "value": "{base.BorderRadius.10000}",
+        "value": "{base.BorderRadius.100%}",
         "type": "borderRadius"
       }
     },

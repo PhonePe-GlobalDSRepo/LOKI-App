@@ -772,7 +772,7 @@
         "value": "48",
         "type": "borderRadius"
       },
-      "10000": {
+      "100%": {
         "value": "10000",
         "type": "borderRadius"
       }

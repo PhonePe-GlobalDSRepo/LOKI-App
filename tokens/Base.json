@@ -778,35 +778,35 @@
       }
     },
     "BorderWidth": {
-      "1": {
+      "Hairline": {
         "value": "1",
         "type": "borderWidth"
       },
-      "2": {
+      "ExtraLight": {
         "value": "2",
         "type": "borderWidth"
       },
-      "3": {
+      "Light": {
         "value": "3",
         "type": "borderWidth"
       },
-      "4": {
+      "SemiLight": {
         "value": "4",
         "type": "borderWidth"
       },
-      "5": {
+      "Medium": {
         "value": "5",
         "type": "borderWidth"
       },
-      "6": {
+      "SemiBold": {
         "value": "6",
         "type": "borderWidth"
       },
-      "7": {
+      "Bold": {
         "value": "7",
         "type": "borderWidth"
       },
-      "8": {
+      "ExtraBold": {
         "value": "8",
         "type": "borderWidth"
       }
@@ -1239,28 +1239,44 @@
       }
     },
     "LetterSpacing": {
-      "None": {
+      "UltraTight": {
         "value": "0%",
         "type": "letterSpacing"
       },
-      "Normal": {
+      "ExtraTight": {
         "value": "1%",
         "type": "letterSpacing"
       },
-      "Moderate": {
+      "Tight": {
         "value": "1.5%",
         "type": "letterSpacing"
       },
-      "Medium": {
+      "SemiTight": {
         "value": "2%",
         "type": "letterSpacing"
       },
+      "Medium": {
+        "value": "2.5%",
+        "type": "letterSpacing"
+      },
+      "SemiLoose": {
+        "value": "3%",
+        "type": "letterSpacing"
+      },
       "Loose": {
-        "value": "4%",
+        "value": "3.5%",
         "type": "letterSpacing"
       },
       "ExtraLoose": {
+        "value": "4%",
+        "type": "letterSpacing"
+      },
+      "UltraLoose": {
         "value": "8%",
+        "type": "letterSpacing"
+      },
+      "Wide": {
+        "value": "12%",
         "type": "letterSpacing"
       }
     },

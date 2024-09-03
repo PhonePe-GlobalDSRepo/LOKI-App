@@ -466,7 +466,7 @@
       },
       "Selection": {
         "BackgroundBold": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "BackgroundSubtle": {
@@ -474,21 +474,21 @@
           "type": "color"
         },
         "Border": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "Icon": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "Text": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         }
       },
       "CTA": {
         "BackgroundBold": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "BackgroundSubtle": {
@@ -496,11 +496,11 @@
           "type": "color"
         },
         "BorderBold": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "TextBold": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "TextSubtle": {
@@ -512,7 +512,7 @@
           "type": "color"
         },
         "IconBold": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "IconSubtle": {
@@ -563,7 +563,7 @@
       },
       "Icon": {
         "BrandSecondary": {
-          "value": "{base.Color.DeepBlue.500}",
+          "value": "{semantic.Color.Brand.Secondary}",
           "type": "color"
         },
         "Bold": {

@@ -789,6 +789,15 @@
           "type": "typography"
         }
       }
+    },
+    "Composition": {
+      "Overlay": {
+        "value": {
+          "fill": "{base.Color.Neutral.Black}",
+          "opacity": "{semantic.Opacity.70%}"
+        },
+        "type": "composition"
+      }
     }
   }
 }

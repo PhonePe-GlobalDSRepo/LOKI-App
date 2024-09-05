@@ -188,8 +188,17 @@
             "type": "color"
           },
           "BackgroundInactive": {
-            "value": "{semantic.Color.Background.Muted}",
-            "type": "color"
+            "value": "{semantic.Color.Background.Emphasis}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "srgb"
+                }
+              }
+            }
           }
         },
         "Inverse": {
@@ -198,8 +207,17 @@
             "type": "color"
           },
           "BackgroundInactive": {
-            "value": "{semantic.Color.Background.Muted}",
-            "type": "color"
+            "value": "{semantic.Color.Background.Emphasis}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.5",
+                  "space": "srgb"
+                }
+              }
+            }
           }
         }
       },
